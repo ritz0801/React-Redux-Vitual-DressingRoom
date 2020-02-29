@@ -1,0 +1,9 @@
+export const CHOOSE_TYPE = 'CHOOSE_TYPE';
+export const TRY_PRODUCT = 'TRY_PRODUCT';
+export const TRY_TOPCLOTH = 'TRY_TOPCLOTH';
+export const TRY_BOTCLOTH = 'TRY_BOTCLOTH';
+export const TRY_SHOES = 'TRY_SHOES';
+export const TRY_HANDBAG = 'TRY_HANDBAG';
+export const TRY_NECKLACE = 'TRY_NECKLACE';
+export const TRY_HAIRSTYLE = 'TRY_HAIRSTYLE';
+export const TRY_BACKGROUND = 'TRY_BACKGROUND';
